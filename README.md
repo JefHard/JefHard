@@ -1,4 +1,4 @@
-<h2 align="left">About Me</h2>
+<h2 align="left">About Me👨🏾‍💻</h2>
 
 ###
 
@@ -38,10 +38,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/JefHard/JefHard/output/snake.svg" alt="Snake animation" />
-
-###
-
 <h2 align="left">Social Media</h2>
 
 ###
@@ -53,6 +49,12 @@
   <a href="https://www.instagram.com/jefhaard1/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/JefHard/count.svg?"  />
 </div>
 
 ###
